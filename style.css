@@ -132,7 +132,7 @@ body .box-tech {
   align-content: center;
   justify-content: center;
   overflow: hidden;
-  padding: 2em;
+  padding: 1em;
 }
 body .box-tech .content {
   display: flex;
@@ -143,7 +143,7 @@ body .box-tech .content {
   transition: all 0.2s ease-in-out;
 }
 body .box-tech .content img {
-  width: 140px;
+  width: 100px;
   transition: all 0.2s ease-in-out;
   filter: grayscale(100%) brightness(75%);
 }
