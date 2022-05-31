@@ -132,14 +132,14 @@ body .box-tech {
   align-content: center;
   justify-content: center;
   overflow: hidden;
-  padding: 1em;
+  padding: 2em;
 }
 body .box-tech .content {
   display: flex;
   align-content: center;
   justify-content: center;
   flex-flow: column;
-  padding-top: 5em;
+  padding-top: 7em;
   transition: all 0.2s ease-in-out;
 }
 body .box-tech .content img {
