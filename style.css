@@ -139,7 +139,7 @@ body .box-tech .content {
   align-content: center;
   justify-content: center;
   flex-flow: column;
-  padding-top: 10em;
+  padding-top: 8.5em;
   transition: all 0.2s ease-in-out;
 }
 body .box-tech .content img {
