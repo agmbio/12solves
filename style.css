@@ -1,6 +1,7 @@
   @import url("https://fonts.googleapis.com/css?family=Patua+One");
 body {
   text-align: center;
+  background-color: #F5F5EE;
 }
 body .container {
   padding-top: 1%;
@@ -150,7 +151,7 @@ body .box-tech .content img {
 body .box-tech .content p {
   font-size: 1.2em;
   font-weight: 700;
-  color: #8e8e8e;
+  color: #272222;
   text-transform: uppercase;
   margin-top: 0em;
   transition: all 0.2s ease-in-out;
@@ -182,7 +183,7 @@ body .box-tech:hover .content img {
   filter: none;
 }
 body .box-tech:hover .content p {
-  color: #111111;
+  color: #272222;
 }
 body .box-tech:hover .content .desc {
   display: block !important;
