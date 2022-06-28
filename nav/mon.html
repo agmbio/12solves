@@ -91,6 +91,7 @@ body{
     width: 80px;
     height: 15px;
     padding: 25px;
+   
   }
   .navbar .nav-btn label span {
     display: block;
@@ -107,7 +108,7 @@ body{
     display: block;
     text-align: center;
     width: 100%;
-    
+    z-index: 99;
     background-color: #f5f5ee;
     transition: all 0.3s ease-in;
     overflow-y: hidden;
@@ -116,6 +117,7 @@ body{
   }
   .navbar .nav-links a {
     display: block;
+   z-index: 100;
   }
  
   /* when nav toggle button not checked */
@@ -134,6 +136,8 @@ body{
     font-size:  18px;
     font-weight: bold;
     color: #f5f5ee;
+   z-index: 100;
+   
   }
   /* Responsive dropdown code */
   .navbar .nav-links .dropdown, .navbar .nav-links .dropdown2 {
